@@ -1,4 +1,4 @@
-# Arduino Pong de tubo
+# Arduino Pong de Tubo
 
 Este projeto implementa uma versão do clássico jogo Pong utilizando dois microcontroladores Arduino:
 * Arduino 1: Responsável apenas pela leitura dos sensores de proximidade, que funcionam como controles dos jogadores.
